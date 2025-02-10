@@ -1,4 +1,4 @@
-![Awesome Open Source E-commerce Platforms](https://imgur.com/RwADfWz.png)
+![Unique Open Source E-commerce Platforms](https://imgur.com/RwADfWz.png)
 
 <h3 align="center">Awesome Open Source E-commerce Platforms</h3>
 <p align="center">
